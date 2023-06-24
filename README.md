@@ -4,7 +4,7 @@
 </p>
 
 #### Top Langs
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1anyu-z)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ly-x1anyu)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📊 每周工作报告
 ```text
